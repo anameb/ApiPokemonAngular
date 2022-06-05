@@ -1,0 +1,14 @@
+/* estilos etiqueta */
+p {
+  background-color: cadetblue;
+}
+
+/* estilos una clase: */
+.titulo{
+ color: bisque;
+}
+
+/* estilos id: */
+#b{
+  background-color: rgb(0, 166, 255);
+}
